@@ -1,0 +1,93 @@
+.text-center{
+  text-align: center;
+}
+
+.margin-below{
+  margin-bottom: 5%;
+}
+
+input[type='number'] {
+  -moz-appearance:textfield;
+}
+
+input[type=number]::-webkit-inner-spin-button,
+input[type=number]::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+hr{
+  border-top: 1.5px solid #c7c9cc !important;
+}
+
+.loading-div{
+  height: 360px;
+  text-align: center;
+}
+
+.loading-circular-progress{
+  top: 35%;
+}
+
+.display-header-right{
+  display: inline-flex;
+  margin-right: -6%;
+}
+
+.margin-five{
+  margin: 5%;
+}
+
+.color-darkcyan{
+  color: darkcyan;
+}
+
+.margin-bottom-three{
+  margin-bottom: 3%;
+}
+
+.minimum-height{
+  min-height: 360px;
+}
+
+.menuDivider{
+  border: 0 !important;
+  border-top: 1px solid #eeeeee !important;
+}
+
+.bold-text{
+  font-weight: bold;
+}
+
+.one-em-font{
+  font-size: 1em !important;
+}
+
+.fifty-width{
+  width: 50% !important;
+}
+
+.home-page-div{
+  img{
+    cursor: pointer !important;
+  }
+}
+
+.sixzero-weight{
+  font-weight: 600;
+}
+
+.about-div{
+  li{
+    border: none !important;
+  }
+}
+
+.project-contributions{
+  font-size: 1.1em;
+  text-decoration: underline;
+}
+
+.left-margin-pointfive{
+  margin-left: 0.5%;
+}

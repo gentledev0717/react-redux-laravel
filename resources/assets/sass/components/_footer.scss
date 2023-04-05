@@ -1,0 +1,25 @@
+.table-footer th, .table-footer td {
+  border-top: none !important;
+}
+
+.footer {
+  position: relative;
+  margin-top: 2%;
+  bottom: 0;
+  width: 100%;
+
+  .navbar {
+    margin-bottom: 0;
+  }
+  
+  a{
+    color: #333;
+    &:hover{
+      text-decoration: underline;
+    }
+  }
+}
+
+.copyright-height{
+  min-height: 40px;
+}

@@ -1,0 +1,36 @@
+.subcategory-heading{
+  font-weight: 500;
+  font-size: 2em;
+}
+
+.deal-heading{
+  font-size: 1.6em;
+  color: #091c4c;
+}
+
+.subcategory-deals-list li{
+  h4{
+    font-size: 1.6em;
+    color: #020816;
+    margin-left: 1%;
+  }
+
+  a{
+    color: #108c46;
+  }
+
+  border: none !important;
+  cursor: pointer;
+}
+
+.subcategory-deal-price{
+  color: #108c46;
+  font-weight: 500;
+  margin-left: 1%;
+}
+
+.subcategory-deal-price-st{
+  margin-left: 1%;
+  text-decoration: line-through;
+  color: #a81a1a;
+}
